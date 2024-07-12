@@ -1,1 +1,1 @@
-# CodingNinjas_DSA
+#DSA
